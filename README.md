@@ -1,4 +1,4 @@
-# Assignment 6: LZ77/78 Compression
+# LZ77/78 Compression
 
 ## Short Description:
 
